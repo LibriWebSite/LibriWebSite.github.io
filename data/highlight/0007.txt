@@ -1,0 +1,1 @@
+[{"id":298,"width":"71","height":"11","x":"632","y":"956","text":"@regulus_exp","option":0}]
